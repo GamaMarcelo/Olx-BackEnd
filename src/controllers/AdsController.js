@@ -11,7 +11,7 @@ module.exports = {
     getItem: async(req, res) => {
 
     },
-    aditAction: async (req, res) => {
+    editAction: async (req, res) => {
 
     },
 }
